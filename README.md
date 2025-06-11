@@ -1,10 +1,7 @@
-## Greetings, I am Galina.
-Passionate Cybersecurity Professional 
-Multilingual Business Intelligence Consultant
-Lawyer by Training
+## Greetings, 
 
--🔭 I’m currently working on MS in Cybersecurity Risk & Strategy 
--🌱 I’m currently learning Python, and Framework 
+My name is Galina, and I'm a New York School University trained Cybersecurity Risk & Management Professional interested in all things Python,and Framework. 
+
 -👯 I’m looking to collaborate on Cybersecurity Related Projects 
 
 <!--
