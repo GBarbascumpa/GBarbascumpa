@@ -1,6 +1,6 @@
 ## Greetings, 
 
-My name is Galina, and I'm a New York School University trained Cybersecurity Risk & Management Professional interested in all things Python,and Framework. 
+My name is Galina, and I'm a New York School University trained Cybersecurity Risk & Management Professional interested in all things Python, and Framework. 
 
 -👯 I’m looking to collaborate on Cybersecurity Related Projects 
 
