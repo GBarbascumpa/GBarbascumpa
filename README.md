@@ -4,7 +4,8 @@ My name is Galina, and I'm a New York School University trained Cybersecurity Ri
 
 In other words, a Lawyer by training, with more than 4 years of experience in Business Intelligence, eager to learn about identifying common risks, threats, and vulnerabilities, as well as techniques to mitigate them.
 
--👯 I’m looking to collaborate on Cybersecurity Related Projects 
+- 👯 I’m looking to collaborate on Cybersecurity Related Projects. 
+- 🔭 I’m currently writing about areas where Tech meets Law and Finance, check it out at www.barbascumpa.com. 
 
 <!--
 **GBarbascumpa/GBarbascumpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
