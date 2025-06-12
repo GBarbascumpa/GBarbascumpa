@@ -2,7 +2,7 @@
 
 My name is Galina, and I'm a New York School University trained Cybersecurity Risk & Management Professional interested in all things Python, Linux, and SQL, in addition to Framework.
 
-In other words, a Lawyer by training, with more than 4 years of experience in Business Intelligence, eaher to learn about identifying common risks, threats, and vulnerabilities, as well as techniques to mitigate them.
+In other words, a Lawyer by training, with more than 4 years of experience in Business Intelligence, eager to learn about identifying common risks, threats, and vulnerabilities, as well as techniques to mitigate them.
 
 -👯 I’m looking to collaborate on Cybersecurity Related Projects 
 
