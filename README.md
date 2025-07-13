@@ -1,4 +1,4 @@
-## Greetings, 
+## Welcome to my page! Explore my cybersecurity expertise, certifications, hands-on projects and labs, and professional resume. 
 
 My name is Galina, and I'm a New York School University trained Cybersecurity Risk & Management Professional interested in all things Python, Linux, and SQL, in addition to Framework.
 
