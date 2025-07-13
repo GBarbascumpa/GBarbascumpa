@@ -1,5 +1,7 @@
 ## Welcome to my page! Explore my cybersecurity expertise👩‍💻, certifications📃, hands-on projects and labs🔬, and professional resume📜. 
 
+"The only secure computer is one that’s unplugged, locked in a safe, and buried 20 feet under the ground in a secret location".
+
 My name is Galina, and I'm a New York School University trained Cybersecurity Risk & Management Professional interested in all things Python, Linux, and SQL, in addition to Framework.
 
 In other words, a Lawyer by training, with more than 4 years of experience in Business Intelligence, eager to learn about identifying common risks, threats, and vulnerabilities, as well as techniques to mitigate them.
