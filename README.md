@@ -15,9 +15,10 @@ I build GRC programs that survive contact with real audits, real regulators, and
 
 ## Background
 
-- **GRC Program Design & Delivery** - control testing and remediation, policy development and lifecycle management
-- **Regulatory Frameworks** - HIPAA/HITECH, GDPR
-- **Risk & Audit** - audit-ready documentation, risk findings and recommendations, multilingual investigative research
+- **GRC Program Design & Delivery** — control testing and remediation, policy development and lifecycle management
+- **Regulatory Frameworks** — HIPAA/HITECH, GDPR
+- **AI Governance Frameworks** — NIST AI RMF, ISO/IEC 42001, EU AI Act
+- **Risk & Audit** — audit-ready documentation, risk findings and recommendations, multilingual investigative research
 - **Program Leadership** — cross-functional stakeholder alignment, process standardization, team enablement (25+ professionals trained)
 
 ## Certifications & Training
