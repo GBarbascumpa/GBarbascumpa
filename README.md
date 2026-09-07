@@ -30,7 +30,7 @@ I design, build, and operationalize GRC programs that survive real audits, real 
 
 ### 🎓 Education & Certifications
 
-* **M.S. in Cybersecurity Risk and Strategy** - NYU Tandon School of Engineering / School of Law
+* **M.S. in Cybersecurity Risk & Strategy** - NYU Tandon School of Engineering / School of Law
 * **LL.M., Advanced Legal Studies (Business Law)** - Benjamin N. Cardozo School of Law
 * **Anthropic AI Fluency:** Framework & Foundations
 * **Google Cybersecurity Professional Certificate**
