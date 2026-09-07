@@ -2,6 +2,7 @@
 # Hi, I'm Galina Barbascumpa 👋
 
 **Technical GRC & AI Governance Leader** | Ex-EY | LL.M. + M.S. Cybersecurity Strategy
+
 *Bridging technical architecture, healthcare privacy, cybersecurity risk, and legal oversight to turn regulatory complexity into operational trust.*
 
 > *"Governance isn't a document you file - it's a system you operate."*
