@@ -10,17 +10,12 @@ I work at the intersection of law, cybersecurity, technology, risk, and AI gover
 
 <a href="https://www.linkedin.com/in/galinabarbascumpa/"> <img src="https://img.shields.io/badge/✨_More_about_my_journey-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6D28D9" alt="More about my journey on LinkedIn"/> </a>
 
-💻 What I’m Exploring
+## **🤖💻 What I’m Exploring**
 
-🛡️ Technical GRC & cybersecurity risk
+🛡️ Technical GRC · 🤖 AI Governance · 🔐 Cybersecurity
+⚙️ Automation · 🔒 Privacy · 🌱 Continuous Learning
 
-🤖 AI governance & responsible AI
-
-🔐 Security, privacy & compliance
-
-⚙️ Automation & emerging technologies
-
-📚 Continuous learning & hands-on experimentation
+Curious about technology. Serious about responsible innovation.
 
 ✨ My Philosophy
 Stay curious. Keep learning. Build with purpose.
