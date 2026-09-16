@@ -11,6 +11,7 @@ Always learning. Always growing. Always building. 🚀
 I’m curious about how technology works, the risks it creates, and how thoughtful governance can help organizations innovate while building trust, resilience, and responsible AI.
 
 💻 What I’m Exploring
+
 🛡️ Technical GRC & cybersecurity risk
 
 🤖 AI governance & responsible AI
