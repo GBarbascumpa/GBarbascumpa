@@ -55,9 +55,8 @@ I believe good governance should enable innovation not stand in its way.
 I’m continuously learning, experimenting with technology, and exploring better ways to build secure, responsible, and trustworthy systems.
 
 ## **✨ My Philosophy**
-Stay curious. Build with purpose. 🔎
-
-Explore. Experiment. Build. Share. Repeat. 💡
+**Stay curious. Build with purpose.** 🔎  
+> *Explore. Experiment. Build. Share. Repeat.* 💡
 
 <p align="center"> <strong>🚀 Let’s create something meaningful together! 💜</strong> </p>
 
