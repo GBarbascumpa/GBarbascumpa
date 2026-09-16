@@ -24,32 +24,35 @@ Explore. Experiment. Build. Share. Repeat. 🚀
 
 <p align="center"> <strong>🚀 Let’s create something meaningful together! 💜</strong> </p>
 
-🤖 AI Governance & Research
-NYU Capstone: Trust & Safety for AI-Driven Surgical Robots
+## **🤖 AI Governance & Research**
+🎓 NYU Capstone - Trust & Safety for AI-Driven Surgical Robots
 
-Developed a lifecycle governance framework and policy playbook addressing accountability, privacy, cybersecurity, and regulatory coordination in high-risk AI environments.
+Explored AI lifecycle governance, accountability, privacy, cybersecurity, and regulatory coordination in high-risk AI environments.
 
-I also write and research at the intersection of law, cybersecurity, business, and AI governance.
+📝 Research & Writing
+Exploring the intersection of law, cybersecurity, business, and AI governance.
 
 🛡️ Areas of Focus
-Technical GRC: Control design & testing, remediation, audit readiness, risk management
+⚙️ Technical GRC · Controls · Risk · Audit Readiness
 
-Privacy & Regulatory: HIPAA/HITECH, GDPR, data protection
+🔐 Privacy & Regulation · HIPAA/HITECH · GDPR
 
-AI Governance: NIST AI RMF, ISO/IEC 42001, EU AI Act, algorithmic risk
+🤖 AI Governance · NIST AI RMF · ISO/IEC 42001 · EU AI Act
 
-Technology & Security: Network security fundamentals, security risk, governance automation
+💻 Technology & Security · Security Risk · Automation
 
-Program Leadership: Cross-functional collaboration, process improvement, team enablement
+🚀 Program Leadership · Collaboration · Process Improvement
 
-🎓 Education & Certifications
-M.S. Cybersecurity Risk & Strategy — NYU Tandon School of Engineering / NYU School of Law
+## **🎓 Education & Certifications**
+🎓 M.S. Cybersecurity Risk & Strategy
+NYU Tandon School of Engineering · NYU School of Law
 
-LL.M., Advanced Legal Studies (Business Law) — Benjamin N. Cardozo School of Law
+⚖️ LL.M., Advanced Legal Studies (Business Law)
+Benjamin N. Cardozo School of Law
 
-Anthropic AI Fluency: Framework & Foundations
+🤖 Anthropic AI Fluency · Framework & Foundations
 
-Google Cybersecurity Professional Certificate
+🔐 Google Cybersecurity Professional Certificate
 
 🌱 Always Learning
 I believe good governance should enable innovation—not stand in its way.
