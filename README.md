@@ -17,10 +17,10 @@ I work at the intersection of law, cybersecurity, technology, risk, and AI gover
 
 Curious about technology. Serious about responsible innovation.
 
-✨ My Philosophy
-Stay curious. Keep learning. Build with purpose.
+## **✨ My Philosophy**
+Stay curious. Keep learning. Build with purpose. 💜
 
-This is my space to explore ideas, experiment with technology, build projects, and share what I learn along the way.
+Explore. Experiment. Build. Share. Repeat. 🚀
 
 <p align="center"> <strong>🚀 Let’s create something meaningful together! 💜</strong> </p>
 
