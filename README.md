@@ -18,9 +18,9 @@ I work at the intersection of law, cybersecurity, technology, risk, and AI gover
 Curious about technology. Serious about responsible innovation.
 
 ## **✨ My Philosophy**
-Stay curious. Keep learning. Build with purpose. 
+Stay curious. Keep learning. Build with purpose. 🔎
 
-Explore. Experiment. Build. Share. Repeat. 🚀
+Explore. Experiment. Build. Share. Repeat. 💡
 
 <p align="center"> <strong>🚀 Let’s create something meaningful together! 💜</strong> </p>
 
@@ -55,7 +55,7 @@ Benjamin N. Cardozo School of Law
 🔐 Google Cybersecurity Professional Certificate
 
 🌱 Always Learning
-I believe good governance should enable innovation—not stand in its way.
+I believe good governance should enable innovation not, stand in its way.
 
 I’m continuously learning, experimenting with technology, and exploring better ways to build secure, responsible, and trustworthy systems.
 
