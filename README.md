@@ -32,7 +32,14 @@ Explored AI lifecycle governance, accountability, privacy, cybersecurity, and re
 📝 Research & Writing
 Exploring the intersection of law, cybersecurity, business, and AI governance.
 
-🛡️ Areas of Focus
+## **📚 Free AI Governance Guide**
+Want to explore AI governance in a practical way?
+I created a free AI Governance Guide to help turn complex concepts into actionable steps.
+<a href="https://barbascumpa.com/pages/https-barbascumpa-comfree-ai-governance-guide">
+  <img src="https://img.shields.io/badge/🤖_Get_the_Free_Guide-8B5CF6?style=for-the-badge&logoColor=white" alt="Get the Free AI Governance Guide"/>
+</a>
+
+## **🛡️ Areas of Focus**
 ⚙️ Technical GRC · Controls · Risk · Audit Readiness
 
 🔐 Privacy & Regulation · HIPAA/HITECH · GDPR
