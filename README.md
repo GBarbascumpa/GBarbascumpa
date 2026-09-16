@@ -60,7 +60,7 @@ I believe good governance should enable innovation not, stand in its way.
 I’m continuously learning, experimenting with technology, and exploring better ways to build secure, responsible, and trustworthy systems.
 
 📫 Connect
-LinkedIn · Portfolio · Email: gb1626@nyu.edu
+Email: gb1626@nyu.edu
 
 
 
