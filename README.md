@@ -36,19 +36,15 @@ Exploring the intersection of law, cybersecurity, business, and AI governance.
 Want to explore AI governance in a practical way?
 I created a free AI Governance Guide to help turn complex concepts into actionable steps.
 
-<a href="https://barbascumpa.com/pages/https-barbascumpa-comfree-ai-governance-guide">
-  <svg width="360" height="52" viewBox="0 0 360 52" xmlns="http://www.w3.org/2000/svg">
-    <rect width="360" height="52" rx="26" fill="#8B5CF6"/>
-    <text x="180" y="33"
-          text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="16"
-          font-weight="bold"
-          fill="white">
-      Grab Your Free AI Governance Guide →
-    </text>
-  </svg>
-</a>
+<p>
+  <a href="https://barbascumpa.com/pages/https-barbascumpa-comfree-ai-governance-guide">
+    <img
+      src="https://img.shields.io/badge/💜%20Grab%20Your%20Free%20AI%20Governance%20Guide%20%E2%86%92-8B5CF6?style=for-the-badge&logoColor=white"
+      alt="Grab Your Free AI Governance Guide"
+      style="border-radius: 25px;"
+    />
+  </a>
+</p>
 
 ## **🛡️ Areas of Focus**
 ⚙️ Technical GRC · Controls · Risk · Audit Readiness
