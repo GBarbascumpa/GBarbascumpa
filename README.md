@@ -1,4 +1,18 @@
-Hello! 👋 I'm Galina
+import time
+import os
+
+purple = "\033[95m"
+reset = "\033[0m"
+
+message = "Hello! 👋 I'm Galina"
+
+while True:
+    os.system("cls" if os.name == "nt" else "clear")
+    print(purple + message + reset)
+    time.sleep(1)
+
+    os.system("cls" if os.name == "nt" else "clear")
+    time.sleep(1)
 
 Welcome to my little corner of GitHub! 🚀
 I'm passionate about learning, building, and turning ideas into code.
