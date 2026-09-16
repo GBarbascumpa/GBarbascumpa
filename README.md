@@ -48,15 +48,10 @@ I created a free AI Governance Guide to help turn complex concepts into actionab
 🚀 Program Leadership · Collaboration · Process Improvement
 
 ## **🎓 Education & Certifications**
-🎓 M.S. Cybersecurity Risk & Strategy
-NYU Tandon School of Engineering · NYU School of Law
-
-⚖️ LL.M., Advanced Legal Studies (Business Law)
-Benjamin N. Cardozo School of Law
-
-🤖 Anthropic AI Fluency · Framework & Foundations
-
-🔐 Google Cybersecurity Professional Certificate
+🎓 **M.S. Cybersecurity Risk & Strategy** · NYU  
+⚖️ **LL.M. Advanced Legal Studies** · Cardozo Law  
+🤖 **Anthropic AI Fluency** · Framework & Foundations  
+🔐 **Google Cybersecurity Certificate**
 
 🌱 Always Learning
 I believe good governance should enable innovation not stand in its way.
