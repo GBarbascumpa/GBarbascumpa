@@ -6,11 +6,7 @@
 
 I work at the intersection of law, cybersecurity, technology, risk, and AI governance, with a focus on designing and operationalizing GRC programs that work in real-world environments. 
 
-Over the past decade, I’ve helped translate complex regulatory requirements into practical controls, repeatable processes, and scalable governance programs—from operationalizing HIPAA/HITECH controls within a $3M HealthTech portfolio to supporting HIPAA/GDPR risk-mitigation programs across Fortune 500 engagements at EY.
-
-I’m particularly interested in how AI governance, cybersecurity, and GRC can evolve together as organizations adopt increasingly complex technologies.
-
-I’m curious about how technology works, the risks it creates, and how thoughtful governance can help organizations innovate while building trust, resilience, and responsible AI.
+<a href="YOUR-LINKEDIN-URL"> <img src="https://img.shields.io/badge/💜_Learn_More_on_LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="Learn More on LinkedIn"/> </a>
 
 💻 What I’m Exploring
 
