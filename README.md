@@ -3,6 +3,7 @@
 </p>
 
 🌱 A Little About Me
+
 I’m passionate about bringing together law, cybersecurity, technology, risk, and AI governance to turn complex challenges into practical, responsible solutions.
 
 Always learning. Always growing. Always building. 🚀
