@@ -1,4 +1,7 @@
-I'm Galina Barbascumpa 👋 
+print("Hello! 👋 I'm Galina")
+print("Welcome to my little corner of GitHub! 🚀")
+print("I'm passionate about learning, building, and turning ideas into code.")
+print("Let's create something awesome together! 💻✨")
 
 Technical GRC & AI Governance Leader | Ex-EY | LL.M. + M.S. Cybersecurity Risk & Strategy
 
