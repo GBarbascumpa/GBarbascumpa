@@ -37,15 +37,11 @@ I created a free AI Governance Guide to help turn complex concepts into actionab
 </p>
 
 ## **🛡️ Areas of Focus**
-⚙️ Technical GRC · Controls · Risk · Audit Readiness
-
-🔐 Privacy & Regulation · HIPAA/HITECH · GDPR
-
-🤖 AI Governance · NIST AI RMF · ISO/IEC 42001 · EU AI Act
-
-💻 Technology & Security · Security Risk · Automation
-
-🚀 Program Leadership · Collaboration · Process Improvement
+⚙️ **Technical GRC** · Risk · Controls · Audit  
+🔐 **Privacy & Regulation** · HIPAA/HITECH · GDPR  
+🤖 **AI Governance** · NIST AI RMF · ISO 42001 · EU AI Act  
+💻 **Technology & Security** · Automation  
+🚀 **Program Leadership** · Strategy · Collaboration
 
 ## **🎓 Education & Certifications**
 🎓 **M.S. Cybersecurity Risk & Strategy** · NYU  
