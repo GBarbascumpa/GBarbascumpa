@@ -8,7 +8,7 @@ I work at the intersection of law, cybersecurity, technology, risk, and AI gover
 
 🌱 Always learning. Always growing. Always building.
 
-<a href="[YOUR-LINKEDIN-URL](https://www.linkedin.com/in/galinabarbascumpa/)"> <img src="https://img.shields.io/badge/💜_Learn_More_on_LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="Learn More on LinkedIn"/> </a>
+<p align="center"> <a href="https://www.linkedin.com/in/galinabarbascumpa/"> <img src="https://img.shields.io/badge/💜_Learn_More_on_LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="Learn More on LinkedIn"/> </a> </p>
 
 💻 What I’m Exploring
 
