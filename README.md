@@ -1,18 +1,21 @@
-import time
-import os
+<h2 align="center">
+  <span style="color:#a855f7;">Hello! 👋 I'm Galina</span>
+</h2>
 
-purple = "\033[95m"
-reset = "\033[0m"
+<style>
+h2 {
+  animation: fade 2s infinite;
+}
 
-message = "Hello! 👋 I'm Galina"
-
-while True:
-    os.system("cls" if os.name == "nt" else "clear")
-    print(purple + message + reset)
-    time.sleep(1)
-
-    os.system("cls" if os.name == "nt" else "clear")
-    time.sleep(1)
+@keyframes fade {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+</style>
 
 Welcome to my little corner of GitHub! 🚀
 I'm passionate about learning, building, and turning ideas into code.
