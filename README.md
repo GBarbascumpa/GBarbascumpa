@@ -4,7 +4,7 @@
 
 ## **💜 Beyond the Code**
 
-I work at the intersection of law, cybersecurity, technology, risk, and AI governance—building practical approaches to governance that support innovation, security, and trust.
+I work at the intersection of law, cybersecurity, technology, risk, and AI governance: building practical approaches to governance that support innovation, security, and trust.
 
 🌱 Always learning. Always growing. Always building.
 
