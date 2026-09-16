@@ -2,6 +2,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hello!+%F0%9F%91%8B+I'm+Galina" alt="Hello! 👋 I'm Galina" />
 </p>
 
+🌱 A Little About Me
+I’m passionate about bringing together law, cybersecurity, technology, risk, and AI governance to turn complex challenges into practical, responsible solutions.
+
+Always learning. Always growing. Always building. 🚀
+
+I’m curious about how technology works, the risks it creates, and how thoughtful governance can help organizations innovate while building trust, resilience, and responsible AI.
+
+💻 What I’m Exploring
+🛡️ Technical GRC & cybersecurity risk
+
+🤖 AI governance & responsible AI
+
+🔐 Security, privacy & compliance
+
+⚙️ Automation & emerging technologies
+
+📚 Continuous learning & hands-on experimentation
+
+✨ My Philosophy
+Stay curious. Keep learning. Build with purpose.
+
+This is my space to explore ideas, experiment with technology, build projects, and share what I learn along the way.
+
+<p align="center"> <strong>🚀 Let’s create something meaningful together! 💜</strong> </p>
+
+
+
 Welcome to my little corner of GitHub!
 ⚖️ Master’s in Law → Technical GRC → AI Governance 🤖
 
