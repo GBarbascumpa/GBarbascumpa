@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hello!+%F0%9F%91%8B+I'm+Galina" alt="Hello! 👋 I'm Galina" />
 </p>
 
-📋A Little About Me
+✨ Behind the Code
 
 I work at the intersection of law, cybersecurity, technology, risk, and AI governance, with a focus on designing and operationalizing GRC programs that work in real-world environments. 
 
