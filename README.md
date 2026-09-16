@@ -4,7 +4,7 @@
 
 ## **💜 Beyond the Code**
 
-I work at the intersection of law, cybersecurity, technology, risk, and AI governance, with a focus on designing and operationalizing GRC programs that work in real-world environments. 
+I work at the intersection of law, cybersecurity, technology, risk, and AI governance—building practical approaches to governance that support innovation, security, and trust.
 
 🌱 Always learning. Always growing. Always building.
 
@@ -17,20 +17,10 @@ I work at the intersection of law, cybersecurity, technology, risk, and AI gover
 
 Curious about technology. Serious about responsible innovation.
 
-## **✨ My Philosophy**
-Stay curious. Keep learning. Build with purpose. 🔎
-
-Explore. Experiment. Build. Share. Repeat. 💡
-
-<p align="center"> <strong>🚀 Let’s create something meaningful together! 💜</strong> </p>
-
 ## **🤖 AI Governance & Research**
 🎓 NYU Capstone - Trust & Safety for AI-Driven Surgical Robots
 
 Explored AI lifecycle governance, accountability, privacy, cybersecurity, and regulatory coordination in high-risk AI environments.
-
-📝 Research & Writing
-Exploring the intersection of law, cybersecurity, business, and AI governance.
 
 ## **📚 Free AI Governance Guide**
 Want to explore AI governance in a practical way?
@@ -69,9 +59,16 @@ Benjamin N. Cardozo School of Law
 🔐 Google Cybersecurity Professional Certificate
 
 🌱 Always Learning
-I believe good governance should enable innovation not, stand in its way.
+I believe good governance should enable innovation not stand in its way.
 
 I’m continuously learning, experimenting with technology, and exploring better ways to build secure, responsible, and trustworthy systems.
+
+## **✨ My Philosophy**
+Stay curious. Build with purpose. 🔎
+
+Explore. Experiment. Build. Share. Repeat. 💡
+
+<p align="center"> <strong>🚀 Let’s create something meaningful together! 💜</strong> </p>
 
 📫 Connect
 Email: gb1626@nyu.edu
