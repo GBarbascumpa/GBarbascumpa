@@ -2,9 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hello!+%F0%9F%91%8B+I'm+Galina" alt="Hello! 👋 I'm Galina" />
 </p>
 
-Welcome to my little corner of GitHub! 🚀
-I'm passionate about learning, building, and turning ideas into code.
-Let's create something awesome together! 💻✨
+Welcome to my little corner of GitHub!
+⚖️ Master’s in Law → Technical GRC → AI Governance 🤖
+
+My work sits at the intersection of law, technology, risk, compliance, and artificial intelligence.
+
+I’m passionate about learning how technology works, understanding the risks it creates, and helping build frameworks that enable innovation responsibly.
+
+🌱 Always learning. Always evolving. Always building.
+
+💻 Exploring technology.
+🛡️ Strengthening governance.
+🤖 Shaping responsible AI.
+
+Let’s create something awesome! 🚀
 
 Technical GRC & AI Governance Leader | Ex-EY | LL.M. + M.S. Cybersecurity Risk & Strategy
 
