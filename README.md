@@ -22,20 +22,6 @@ Curious about technology. Serious about responsible innovation.
 
 Explored AI lifecycle governance, accountability, privacy, cybersecurity, and regulatory coordination in high-risk AI environments.
 
-## **📚 Free AI Governance Guide**
-Want to explore AI governance in a practical way?
-I created a free AI Governance Guide to help turn complex concepts into actionable steps.
-
-<p>
-  <a href="https://barbascumpa.com/pages/https-barbascumpa-comfree-ai-governance-guide">
-    <img
-      src="https://img.shields.io/badge/💜%20Grab%20Your%20Free%20AI%20Governance%20Guide%20%E2%86%92-8B5CF6?style=for-the-badge&logoColor=white"
-      alt="Grab Your Free AI Governance Guide"
-      style="border-radius: 25px;"
-    />
-  </a>
-</p>
-
 ## **🛡️ Areas of Focus**
 ⚙️ **Technical GRC** · Risk · Controls · Audit  
 🔐 **Privacy & Regulation** · HIPAA/HITECH · GDPR  
