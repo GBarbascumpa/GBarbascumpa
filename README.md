@@ -4,8 +4,6 @@
 
 ## **💜 Beyond the Code**
 
-### Hi there, I'm Galina 👋
-
 I am the Founder of **Barbascumpa**, where we build runtime control planes and safety infrastructure for high-consequence physical AI, surgical robotics, and invasive brain-computer interfaces (BCIs). 
 
 My work bridges low-level systems telemetry, human-machine authority governance, and rigorous regulatory engineering (FDA PCCP / EU MDR).
