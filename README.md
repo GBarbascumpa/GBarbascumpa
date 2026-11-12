@@ -4,30 +4,24 @@
 
 ## **💜 Beyond the Code**
 
-I work at the intersection of law, cybersecurity, technology, risk, and AI governance: building practical approaches to governance that support innovation, security, and trust.
+### Hi there, I'm Galina 👋
+
+I am the Founder of **Barbascumpa**, where we build runtime control planes and safety infrastructure for high-consequence physical AI, surgical robotics, and invasive brain-computer interfaces (BCIs). 
+
+My work bridges low-level systems telemetry, human-machine authority governance, and rigorous regulatory engineering (FDA PCCP / EU MDR).
 
 🌱 Always learning. Always growing. Always building.
 
 <a href="https://www.linkedin.com/in/galinabarbascumpa/"> <img src="https://img.shields.io/badge/✨_More_about_my_journey-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6D28D9" alt="More about my journey on LinkedIn"/> </a>
 
-## **🤖💻 What I’m Exploring**
+#### 🔭 What I'm Building
+* **Runtime Control Planes:** Edge SDKs and sidecars that enforce safety boundaries, manage neural/algorithmic overrides, and handle human-operator handoffs while adaptive AI and decoding models run in production.
+* **Deterministic Provenance:** Immutable flight-recorder logging to eliminate deployment friction between software velocity and regulatory compliance.
 
-🛡️ Technical GRC · 🤖 AI Governance · 🔐 Cybersecurity
-⚙️ Automation · 🔒 Privacy · 🌱 Continuous Learning
-
-Curious about technology. Serious about responsible innovation.
-
-## **🤖 AI Governance & Research**
-🎓 NYU Capstone - Trust & Safety for AI-Driven Surgical Robots
-
-Explored AI lifecycle governance, accountability, privacy, cybersecurity, and regulatory coordination in high-risk AI environments.
-
-## **🛡️ Areas of Focus**
-⚙️ **Technical GRC** · Risk · Controls · Audit  
-🔐 **Privacy & Regulation** · HIPAA/HITECH · GDPR  
-🤖 **AI Governance** · NIST AI RMF · ISO 42001 · EU AI Act  
-💻 **Technology & Security** · Automation  
-🚀 **Program Leadership** · Strategy · Collaboration
+#### 💡 Core Focus Areas
+* Invasive Brain-Computer Interfaces (BCIs) & Neural Tech
+* AI-Enhanced Surgical Robotics & Interventional Devices
+* Human-Proximate Collaborative Robotics (Cobots & AMRs
 
 ## **🎓 Education & Certifications**
 🎓 **M.S. Cybersecurity Risk & Strategy** · NYU  
@@ -46,7 +40,7 @@ I’m continuously learning, experimenting with technology, and exploring better
 
 <p align="center"> <strong>🚀 Let’s create something meaningful together! 💜</strong> </p>
 
-📫 Connect
+📫 **Let's connect:**
 Email: gb1626@nyu.edu
 
 
